@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/Material_Card_Subtitle_16dp"
+    tools:text="95,Basir Udding Road, Kolabagan , Dhaka-1209"
+    android:id="@+id/txt_address"/>
